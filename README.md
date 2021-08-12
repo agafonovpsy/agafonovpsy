@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Georgiy.
-- 👀 I’m interested in any data science project as project manager or data analyst. 
-- 🌱 I’m currently learning SQL, python.
 - 📫 How to reach me: telegram - @AgafonovG
 
 <!---
